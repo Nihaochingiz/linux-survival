@@ -1,3 +1,57 @@
+ls
+получить список файлов
+
+mkdir primates
+
+Создать директорию
+
+ mv wolves coyotes
+
+Переименование и перемещение файла
+
+cd primates
+
+Change directory
+
+pwd 
+
+(Print working directory)
+Показать путь к директории, где мы находимся
+
+cat file
+(catenite file)
+Прочитать файл
+
+cp reptiles/cobras snakes
+
+(copy "cobras" from the "reptiles" directory to the "snakes" directory.)
+
+Скопировать директорию cobras из директории reptiles в директорию snakes
+
+rm
+
+Удалить файл
+
+rmdir fish
+
+Удалить директорию
+
+
+
+cp /reptiles/cobras snakes
+
+command to copy "cobras" from the "reptiles" directory to the "snakes" directory.
+
+Команда для копирования папки кобры из директории реплиии в директорию змеи
+
+rm reptiles/cobras
+
+command to remove the "cobras" file from the "reptiles" directory.
+
+Команда для удаления файл кобры из директории рептилии
+
+
+
 ls -l
 
  "ls" with the "long listing" option
@@ -123,3 +177,8 @@ man -k spell
 find ~ -name "joke*"
 
 Найти файл, который начинается со слова joke
+
+cat jabber wocky
+
+Соединить два файла jabber и wocky
+
