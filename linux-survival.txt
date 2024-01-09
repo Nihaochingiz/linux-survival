@@ -210,3 +210,10 @@ df .
   cat joke-1 joke-2 | grep rabbit
 
   показать строки в файлах joke-1 joke-2, которые содержат слово rabbit
+
+  ps aux | grep rogue
+
+  Перечислить процессы со словом rogue
+
+  kill PID
+  остановтиь процесс по ID
